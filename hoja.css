@@ -1,0 +1,29 @@
+header{
+    background-color: black;
+}
+
+header nav li{
+    font-size: 15px;
+    display: inline-block;
+    padding: 15PX;
+    color:white;
+}
+
+.margen{
+    height: 600px;
+
+}
+h1{
+    color:white;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+a{  
+    text-align: center;
+    color: black;
+}
+

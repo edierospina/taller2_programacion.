@@ -1,0 +1,20 @@
+header{
+    background-color:bg-dark;
+}
+
+header nav li{
+    font-size: 22px;
+    display: inline-block;
+    padding: 20PX;
+    color:white;
+}
+
+p{
+    text-align: center;
+}
+
+h4{
+  
+    text-align: center;
+}
+
