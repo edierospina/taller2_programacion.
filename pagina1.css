@@ -3,9 +3,9 @@ header{
 }
 
 header nav li{
-    font-size: 22px;
+    font-size: 15px;
     display: inline-block;
-    padding: 20PX;
+    padding: 15PX;
     color:white;
 }
 
@@ -18,3 +18,11 @@ h4{
     text-align: center;
 }
 
+a{
+    position: relative;
+    width: 80px;
+    left: 150px;
+    display: block;
+    bottom: 12px;
+    
+}

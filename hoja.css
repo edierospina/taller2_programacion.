@@ -22,8 +22,12 @@ p{
     text-align: center;
 }
 
-a{  
-    text-align: center;
-    color: black;
+a{
+    position: relative;
+    width: 80px;
+    left: 150px;
+    display: block;
+    bottom: 12px;
+    
 }
 
